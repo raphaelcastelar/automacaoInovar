@@ -6,8 +6,8 @@ from pyunpack import Archive
 from datetime import datetime
 
 # Configurações do e-mail
-EMAIL = "novvacontabilidade@gmail.com"
-SENHA = "hlos pfrd jzwp dntd"
+EMAIL = "departamentofiscal.inovar@gmail.com"
+SENHA = "zofy fwsf ranv usco"
 IMAP_SERVER = "imap.gmail.com"
 
 # Obtém o caminho da Área de Trabalho do usuário
